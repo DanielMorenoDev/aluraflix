@@ -105,7 +105,6 @@ Inicia el proyecto en [http://localhost:5173/](http://localhost:5173/)
 
 
 ### Demo
-![aluraflix](https://github.com/DanielMorenoDev/aluraflix)
 
 Ver demo en [Vercel](https://aluraflix-pi-nine.vercel.app/)
 
@@ -137,4 +136,6 @@ Ver API falsa en [GibHub](https://github.com/DanielMorenoDev/api-aluraflix)
 
 
 ## Autor
+<p align="center">
 [<img src="https://avatars.githubusercontent.com/u/156282398?v=4" width=155><br><sub>Daniel Moreno</sub>](https://github.com/DanielMorenoDev)
+</p>
