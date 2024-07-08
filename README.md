@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DanielMorenoDev/aluraflix/main/src/assets/logo.png?token=GHSAT0AAAAAACT3ARSTZQFSMENMMO2QVRLSZULUBOA" alt="LogoMain"/>
+  <img src="https://aluraflix-pi-nine.vercel.app/assets/logo-BOm-FSlF.png" alt="LogoMain"/>
 </p>
 
 # AluraFlix
