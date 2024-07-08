@@ -137,6 +137,6 @@ Ver API falsa en [GibHub](https://github.com/DanielMorenoDev/api-aluraflix)
 
 ## Autor
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/156282398?v=4" width=155><br><
+<img src="https://avatars.githubusercontent.com/u/156282398?v=4" width=155><br>
 [Daniel Moreno](https://github.com/DanielMorenoDev)
 </p>
